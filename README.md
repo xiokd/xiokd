@@ -2,6 +2,6 @@
 
 I'm currently a student at Eastern Washington University in the Computer Science program.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiokd&count_private=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiokd&count_private=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=xiokd&color=dd6387)
+![](https://komarev.com/ghpvc/?username=xiokd&color=D83B7D)
